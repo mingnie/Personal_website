@@ -99,6 +99,7 @@ p {
 }
 
 .background {
+    width: 90%;
     position: absolute 0 20px;
 }
 

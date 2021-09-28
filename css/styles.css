@@ -53,7 +53,7 @@ h3 {
 
 p {
     line-height: 2;
-    margin-bottom: 35px;
+    margin-bottom: 100px;
 }
 
 /***********************************CLASS SELECTORS************************************/
@@ -95,6 +95,7 @@ p {
 .circular {
     border-radius: 100%;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .background {
@@ -110,7 +111,7 @@ p {
 
 .skill-row {
     width: 60%;
-    margin: 100px auto;
+    margin: 200px auto;
     text-align: left;
 
     line-height: 2;
@@ -133,6 +134,11 @@ p {
     float: right;
     margin-left: 30px;
 
+}
+
+.intro {
+    line-height: 2;
+    margin-bottom: 36px;
 }
 
 .quote {

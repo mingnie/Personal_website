@@ -111,13 +111,13 @@ p {
 
 .skill-row {
     width: 60%;
-    margin: 200px auto;
+    margin: 260px auto;
     text-align: left;
 
     line-height: 2;
 }
 
-.coding_image {
+.left_image {
     width: 25%;
     float: left;
     margin-right: 30px;
@@ -129,7 +129,7 @@ p {
     margin: 40px auto;
 }
 
-.ds_image {
+.right_image {
     width: 25%;
     float: right;
     margin-left: 30px;
